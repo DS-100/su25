@@ -88,8 +88,8 @@ callouts:
 # TODO(setup): Set all of these course variables
 course: DATA 100
 course_email: data100.instructors
-gradescope_course_id:
-bcourses_course_id: 
+gradescope_course_id: 1056235
+bcourses_course_id: 1545289
 ed_course_id: 
 sememster: su25
 # This should be one of eecs, dsus, stat
