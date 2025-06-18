@@ -1,8 +1,6 @@
-# Data 100 Spring 2025 Website
+# Data 100 Summer 2025 Website
 
-[![Pages Deployment](https://github.com/DS-100/sp25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/DS-100/sp25/actions/workflows/jekyll.yml) •
-[![a11y specs](https://github.com/DS-100/sp25/actions/workflows/rspec.yml/badge.svg)](https://github.com/DS-100/sp25/actions/workflows/rspec.yml)
-
+[![Run all page tests](https://github.com/DS-100/su25/actions/workflows/rspec.yml/badge.svg)](https://github.com/DS-100/su25/actions/workflows/rspec.yml)
 
 ## Installation
 
@@ -13,7 +11,7 @@ Prerequisites:
 
 After cloning this repository and navigating into the directory, run the following command to install dependencies
 ```
-cd YOUR_REPO
+cd su25
 bundle install
 ```
 
