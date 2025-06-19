@@ -2,9 +2,9 @@
 name: Josh Grossman
 role: Instructor
 email: jdgg@berkeley.edu
-photo: Joshua_Grossman.jpg
+photo: joshua.jpg
 pronouns: He/Him
 website: https://jdgrossman.com/
-oh: 
+oh:
 order: 1
 ---
