@@ -6,7 +6,7 @@ description: >-
     Principles and Techniques of Data Science
 markdown: kramdown
 course:
-    semester: Spring 2025
+    semester: Summer 2025
     edstem: https://edstem.org/us/courses/74189
     bcourses: ""
     comms_email: data100.support@berkeley.edu
@@ -65,7 +65,7 @@ Below is a high-level “typical week in the course” for {{page.course.semeste
 
 ### Lecture
 
-Each week, there are 4 live **lectures** held Monday through Thursday, 11:00am-12:30pm, hybrid: in-person in Hearst Field Annex A1 and broadcasted live on Zoom. All session recordings, slides, activities, and examples will be uploaded to the course website within 24 hours of the lecture. 
+Each week, there are 4 live **lectures** held Monday through Thursday, 11:00am-12:30pm, hybrid: in-person in Hearst Field Annex A1 and broadcasted live on Zoom. All session recordings, slides, activities, and examples should be uploaded to the course website within 24 hours of the lecture. 
 
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 - Lecture participation is graded using poll responses on a 0/1 basis.
@@ -105,8 +105,7 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 - All homeworks and projects must be submitted to Gradescope by their posted deadlines. There may be separate coding and written Gradescope portals for the same assignment; please check that you are submitting the right part.
 - Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment.
 - The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
-- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (CourseHero, ChatGPT, etc). See the [Collaboration Policy](#collaboration-policy-and-academic-honesty) for more details.
-
+- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (e.g., CourseHero). While large language models (LLMs) are permitted for use on homeworks and projects, students are only allowed to use LLMs in the specific manner outlined in the [Collaboration Policy](#collaboration-policy-and-academic-honesty). Inappropriate use of LLMs is considered cheating. 
 ### Lab
 
 **Labs** are shorter programming assignments designed to give students familiarity with new ideas. They are meant to be completed prior to homework.
@@ -223,32 +222,37 @@ Regrade requests will **not** be considered in cases in which:
 
 We will be following the [EECS departmental policy on Academic Misconduct](https://eecs.berkeley.edu/resources/students/academic-misconduct/){:target="_blank"}, which states that using work or resources that are not your own or not permitted by the course may lead to disciplinary actions, including a failing grade in the course.
 
-**Assignments:** Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. **If you do discuss the assignments with others please include their names at the top of your notebook.** Restated, you and your friends are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so is considered academic misconduct. We will be running advanced plagiarism detection programs on all assignments. 
+**Assignments:** Data science is a collaborative activity. While you may talk with others about the homework and projects, we ask that you write your solutions individually in your own words. **If you do discuss the assignments with others please include their names at the top of your notebook.** Restated, you and your friends are encouraged to discuss course content and approaches to problem-solving, but you are not allowed to share your code nor answers with other students, nor are you allowed to post your assignment solutions publicly. Doing so is considered academic misconduct. We will be running advanced plagiarism detection programs on all assignments. **If you are unsure whether you are plagiarizing, contact the course staff.**
 
 Not only does such copying count as academic misconduct, but it also circumvents the pedagogical goals of an assignment. You must solve problems with the resources made available in the course. You should never look at or have solutions in your possession from another student or another semester.
 
-Working through challenging problems is a key step in learning. If you have an AI doing all the hard work for you, you won’t learn. Therefore, we have the following AI policy:
+While instances of suspected plagiarism are documented during the grading process, the instructors do not address suspected plagiarism until the end of the semester. In other words, if you plagiarize an assignment, but the course staff does not contact you about suspected plagiarism shortly after your grade on the assignment is released, you are not "in the clear". 
+
+Working through challenging problems is a key step in learning. If you have an artificial intelligence (AI) system doing all the hard work for you, you won’t learn. Therefore, we have the following AI policy:
 
 {: .important }
 
-**Use of AI-assisted methods, such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
+**Use of AI-assisted methods and large language models (LLMs), such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
 
-Copying any text directly from a homework or lab problem into ChatGPT is considered cheating in Data 100. Furthermore, engaging in this behavior is detrimental to your learning. You should break problems into steps and paraphrase those steps in your own words. If you copy problems directly into ChatGPT, **you're not learning data science**. You're learning how to ask someone else to do sloppy and unreliable data science on your behalf.
+Copying or closely paraphrasing any text directly from a homework or lab problem into a large language model (LLM) is considered cheating in Data 100. Furthermore, engaging in this behavior is detrimental to your learning. You should break problems into steps and ask for help with each step in your own words. If you copy problems directly into ChatGPT, **you're not learning data science**. You're learning how to ask someone else to do sloppy and unreliable data science on your behalf.
 
-However, we also know that AI assistants will be a key part of your future, and we want to encourage you to learn how to use these technologies as part of the learning process. Therefore, we encourage you to try using these technologies. Here are some prompt ideas that might help you learn:
+However, we also know that AI assistants will be a key part of your future, and we want to encourage you to learn how to productively use these technologies as part of the learning process. Therefore, we encourage you to try using these technologies in appropriate ways. Here are some example prompts that might help you learn:
 - “What does this error message mean? _\<error message\>_ What could I do to fix it?”
 - “Pandas is confusing me; what does the following pandas expression do? _\<weird expression\>_”
 - “How would I convert columns into separate rows in my dataframe?”
 - “Can you explain why the regular expression r’[a-z]’ only matches one character? Can you give me a few practice regular expression exercises?”
 
+When a grader identifies a suspected inappropriate use of an LLM, it is documented for later review. Instructors do not address these cases until the end of the semester. In other words, if you inappropriately use an LLM, but the course staff does not contact you about your LLM use shortly after your grade on the assignment is released, you are not "in the clear". **If you are unsure whether your use of LLMs is appropriate, contact the course staff.**
+
 
 **Exams:** Cheating on exams is a serious offense. We have methods of detecting cheating on exams – so don’t do it! Students caught cheating on any exam will fail the course.
 
-Plagiarism on any assignment, as well as other violations to Berkeley’s [Code of Conduct](https://sa.berkeley.edu/code-of-conduct){:target="_blank"}, will be reported to the Center for Student Conduct. The CSC treats most first-time offenses as a [Non-Reportable Warning](https://conduct.berkeley.edu/wp-content/uploads/2024/01/Academic-Misconduct-Resource-Sheet-for-Students-UPDATED.pdf){:target="_blank"}. Additionally we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, an F in the course, or even dismissal from the university. It’s just not worth it!
+Plagiarism or inappropriate use of LLMs on any assignment, as well as other violations to Berkeley’s [Code of Conduct](https://sa.berkeley.edu/code-of-conduct){:target="_blank"}, will be reported to the Center for Student Conduct. The CSC treats most first-time offenses as a [Non-Reportable Warning](https://conduct.berkeley.edu/wp-content/uploads/2024/01/Academic-Misconduct-Resource-Sheet-for-Students-UPDATED.pdf){:target="_blank"}. Additionally we reserve the right to give you a negative full score (-100%) or lower on the assignments in question, an F in the course, or even dismissal from the university. It’s just not worth it!
 
 Rather than copying someone else’s work, ask for help. You are not alone in Data 100! The entire staff is here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and respect for you.
 
 Finally, know that it’s normal to struggle. Berkeley has high standards, which is one of the reasons its degrees are valued. Everyone struggles, even though many try not to show it. Even if you don’t learn everything that’s being covered, you’ll be able to build on what you do learn, whereas if you cheat you’ll have nothing to build on. You aren’t expected to be perfect; it’s ok not to get an A.
+
 ## Course Culture
 Students taking Data C100 come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community — the instructors, students, and course staff — are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students.
 
