@@ -10,11 +10,16 @@ description: A listing of all the course staff members.
 ## Course Staff Email
 
 {: .important }
+
 > Contact course staff **via Ed** with any questions or concerns. For sensitive matters, the staff email address [data100.instructors@berkeley.edu](mailto:data100.instructors@berkeley.edu) is monitored by the instructors and a few lead TAs.
 
 <a name = 'inst'></a>
 
 ## Instructors
+
+{: .important }
+
+> Unless you have a private concern for just one of the instructors, please **email** [data100.instructors@berkeley.edu](mailto:data100.instructors@berkeley.edu) to get in touch with us!
 
 <div class="role">
   {% assign instructors = site.staffers | where: 'role', 'Instructor' | sort: 'order' %}

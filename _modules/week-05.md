@@ -11,7 +11,7 @@ Mon July 21
 Tue July 22
 : **Lecture 17**{: .label .label-lecture } [Random Variables](lecture/lec17)
 : **Lecture Participation 17**{: .label .label-survey } Slido
-: **Project A2**{: .label .label-proj } Housing II (due 7/25)
+: **Project A2**{: .label .label-proj } Housing II (due Fri 7/25)
 
 Wed July 23
 : **Lecture 18**{: .label .label-lecture } [Estimators, Bias & Variance](lecture/lec18)
@@ -21,7 +21,7 @@ Wed July 23
 Thu July 24
 : **Lecture 19**{: .label .label-lecture } [Parameter Inference & The Bootstrap](lecture/lec19)
 : **Lecture Participation 19**{: .label .label-survey } Slido
-: **Lab 8**{: .label .label-lab } Probability (due 7/28)
+: **Lab 8**{: .label .label-lab } Probability (due Mon 7/28)
 
 Fri July 25
-: **Homework 6**{: .label .label-hw } Probability (due 7/30)
+: **Homework 6**{: .label .label-hw } Probability (due Wed 7/30)

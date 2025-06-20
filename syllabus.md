@@ -91,7 +91,7 @@ Each week, we will provide a conceptual review covering the topics pertinent to 
 
 {: .note }
 
-> You can switch from the graded discussion option to the non-graded discussion option after the [Pre-Semester Survey](){:target="\_blank"} is due (TBA) and before TBA, so you are able to attend one discussion to gauge your interest. To do so, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after TBA. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
+> You can switch from the graded discussion option to the non-graded discussion option after the Pre-Semester Survey (link TBD) is due (TBA) and before TBA, so you are able to attend one discussion to gauge your interest. To do so, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after TBA. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
 
 Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
 
@@ -140,14 +140,14 @@ We want to enable everyone to succeed in this course. We encourage you to discus
 
 Course Communication:
 
-- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/74189){:target="\_blank"} and the [FAQ](https://ds100.org/faqs/su25/){:target="\_blank"} page first before emailing course staff directly.
+- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out Ed (link TBD) and the [FAQ](https://ds100.org/faqs/su25/){:target="\_blank"} page first before emailing course staff directly.
 
   - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="\_blank"} and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/){:target="\_blank"}.
 
   - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response.
 
 - For sensitive questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors and a few lead TAs.
-- For course accomodations/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](TBA){:target="\_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](<(mailto:{{page.course.comms_email}})>).
+- For course accomodations/DSP: student accommodation requests will be handled via the Additional Accommodations Form (link TBD). Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](<(mailto:{{page.course.comms_email}})>).
   - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
@@ -166,7 +166,7 @@ Course Communication:
 
 **To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterm and final exams.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
 
-While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](TBA){:target="\_blank"}. See the next sections for more details.
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an Additional Accommodations Form (link TBD) {:target="\_blank"}. See the next sections for more details.
 
 ### On-Time Submission
 
@@ -188,7 +188,7 @@ Each project or homework can have a maximum of **4** slip days applied. After 4 
 
 We recognize that our students come from varied backgrounds and have widely-varying experiences. If you require any additional accommodations any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
 
-The **[Additional Accommodations Form](TBA){:target="\_blank"}** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
+The **Additional Accommodations Form (link TBD)** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
 
 We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The Additional Accommodations Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 

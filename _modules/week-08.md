@@ -9,12 +9,11 @@ Tue Aug 12
 : **Lecture 29**{: .label .label-lecture } [Review](lecture/lec29)
 
 Wed Aug 13
-: **No Lecture**{: .label .label-lecture }
-: **Final**{: .label .label-exam} 
+: **Final**{: .label .label-exam}
+See [syllabus](/su25/syllabus/) for final details.
 
 Thu Aug 14
-: **No Lecture**{: .label .label-lecture }
-: **Final**{: .label .label-exam} 
+: **Final**{: .label .label-exam }
 
 Fri Aug 15
-: **Final**{: .label .label-exam} 
+: **Final**{: .label .label-exam }
