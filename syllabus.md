@@ -80,7 +80,7 @@ The lectures, assignments, and exams of this course are structured with the **ex
 
 Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist (link TBA). Slides for the content review are linked TBA. We recommend watching the content review before your discussion section. Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
 
-<!-- {: .important }
+{: .important }
 
 > This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion will be assigned a discussion attendance based on their availability.
 
@@ -95,7 +95,7 @@ Each week, we will provide a conceptual review covering the topics pertinent to 
 
 Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
 
-Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown. -->
+Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
 
 ### Homework and Projects
 
