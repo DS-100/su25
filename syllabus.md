@@ -67,7 +67,7 @@ Each week, there are 4 live **lectures** held Monday through Thursday, 11:00am-1
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 
 - Lecture participation is graded using poll responses on a 0/1 basis.
-  - Synchronous Participation: complete at least one participation poll question during the live lecture timeslot (11:30am-12:30pm, Monday through Thursday). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
+  - Synchronous Participation: complete at least one participation poll question during the live lecture timeslot (11:00am-12:30pm, Monday through Thursday). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
   - Asynchronous Participation: complete all participation poll questions from the link provided on the course website within one week of the corresponding lecture.
   - In both cases, participation is graded on completion, not correctness.
 - See the [Policies](#policies) section for lecture participation drops.
@@ -78,22 +78,22 @@ Live **discussion sections** are one hour long, and held twice a week on Mondays
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist (link TBA). Slides for the content review are linked TBA. We recommend watching the content review before your discussion section. Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
+Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist (**LINK TBA**). Slides for the content review can be foud here (**LINK TBA**). We recommend watching the content review before your discussion section. Discussion sections will not include any content review; they will solely be focused on problem-solving and Q&A.
 
 {: .important }
 
-> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion will be assigned a discussion attendance based on their availability.
+> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. After the first week of the course, students will need to choose between the two grading schemes. Students who choose the Graded Discussion are assigned to a discussion slot based on their availability. Discussion attendance will be recorded starting with the second week of class. 
 
 - **Graded Discussion:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
-  - Online sections are reserved for students with specific needs (e.g., DSP, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
-  - All students are automatically granted 3 discussion drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events – you should not plan to use them.
-- **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category. If you choose this option you will not be assigned to a discussion section.
+  - Online sections, if offered, are reserved for students with specific needs (e.g., DSP, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
+  - All students are automatically granted 3 discussion attendance drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events. In other words, you should not plan to use them.
+- **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category of the grade. If you choose this option, you will not be assigned to a discussion section.
 
 {: .note }
 
-> You can switch from the graded discussion option to the non-graded discussion option after the Pre-Semester Survey (link TBD) is due (TBA) and before TBA, so you are able to attend one discussion to gauge your interest. To do so, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after TBA. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
+> You can switch from the graded discussion option to the non-graded discussion option after the Pre-Semester Survey (**LINK TBD**) is due (**DATE TBD**) and before **DATE TBD**, so you are able to attend one discussion to gauge your interest. If you want to change between graded or ungraded discussion, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after **DATE TBA**. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
 
-Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
+Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}), and we may be able to accommodate you.
 
 Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
 
@@ -101,41 +101,43 @@ Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade brea
 
 **Homeworks** are long form assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. **Projects** synthesize multiple topics.
 
-- All homeworks and projects must be submitted to Gradescope by their posted deadlines. There may be separate coding and written Gradescope portals for the same assignment; please check that you are submitting the right part.
+- All homeworks and projects must be submitted by their posted deadlines. There may be separate coding and written portals for the same assignment; please check that you are submitting the right part.
 - Homeworks and projects have both public (visible) and hidden autograder tests. The public tests are mainly sanity checks. For example, a sanity check might verify that the answer you entered is a number as expected, and not a word. The hidden tests generally check for correctness, and are invisible to students while they are completing the assignment.
 - The primary form of support students will have for homeworks and projects are **office hours** and **Ed**.
-- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (e.g., CourseHero). While large language models (LLMs) are permitted for use on homeworks and projects, students are only allowed to use LLMs in the specific manner outlined in the [Collaboration Policy](#collaboration-policy-and-academic-honesty). Inappropriate use of LLMs is considered cheating.
+- Homeworks and projects must be completed individually, without the usage of any unauthorized resources (e.g., CourseHero). While large language models (LLMs) are permitted for use on homeworks and projects, students are only allowed to use LLMs in the specific manner outlined in the [Collaboration Policy](#collaboration-policy-and-academic-honesty). Inappropriate use of LLMs is considered cheating, and will be addressed as such.
 
 ### Lab
 
 **Labs** are shorter programming assignments designed to give students familiarity with new ideas. They are meant to be completed prior to homework.
 
-- All lab assignments must be submitted to Gradescope by their posted deadlines.
+- All lab assignments must be submitted by their posted deadlines.
 - All lab autograder tests are public (visible).
-- We will not be having lab sections for Data 100 this semester. Rather, we'll provide extensive lab support on Ed and accompanying video walkthroughs.
+- We will not have lab sections for Data 100 this semester. Rather, we'll provide extensive lab support on Ed and accompanying video walkthroughs.
 - All labs are intended to take about an hour.
 - Lab submissions are mandatory.
 - Your two lowest lab scores will be dropped.
 
 ### Exams
 
-There will be two exams in this course:
+There are two exams in this course:
 
 {: .important}
 
-> - **Midterm** on **Thursday July 17 AND Friday July 18**.
-> - **Final** on **Wednesday August 13 AND Thursday August 14**.
+> - **Midterm** on **Thursday July 17 OR Friday July 18**.
+> - **Final** on **Wednesday August 13 OR Thursday August 14 OR Friday August 15**.
 
-For the midterm exam, we plan to administer in one of the computer-based testing facilities on campus on the two days listed above. Enrolled students will be able to sign up for a two-hour time slot to take the midterm on of the two available days. More information will be provided once the semester begins, including instructions for students with DSP accommodations.
+We plan to administer the midterm in one of the computer-based testing facilities on campus on 7/17 and 7/18. Enrolled students will be able to sign up for a two-hour time slot to take the midterm during one of the two available days. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
 
-For the final exam, we plan to administer the final exam on the two days listed above. The final exam will be administered EITHER on-paper during regular lecture time (11:30am - 1pm) on BOTH days (i.e., a two-part exam), OR in one of the computer-based testing facilities (CBTF) on campus with the exam completed in ONE sitting on either 8/13 or 8/14. If the exam if administered in the CBTF, we may also offer exam slots on Friday August 15. You will not have a choice of exam modality (i.e., on-paper or computerized). The instructors will choose a single exam modality for the entire class. We will announce our decision shortly after the midterm.
+The final exam will be administered EITHER on-paper during regular lecture time (11:30am - 1pm) on 8/13 AND 8/14 (i.e., a two-part exam), OR in one of the computer-based testing facilities (CBTF) on campus with the exam completed in ONE sitting on 8/13, 8/14, or 8/15. 
+
+You will not have a choice of final exam modality (i.e., on-paper or computerized). The instructors will choose a single exam modality for the entire class. We will announce our decision shortly after the midterm.
 
 ## Office Hours and Communication
 
 We want to enable everyone to succeed in this course. We encourage you to discuss course content with your friends, classmates, and course staff throughout the semester, particularly during **office hours**.
 
 - All office hours will be updated on the Calendar.
-- In-person course staff office hours will be held in Warren Hall 101B. (TBA)
+- In-person course staff office hours will be held in Warren Hall 101B. (**LINK TBA**)
 - In general, students can come to staff office hours for any questions on course assignments or material.
 - Instructor office hours are generally reserved for conceptual questions, course review, course logistics, research opportunities, and career planning.
 
@@ -148,7 +150,7 @@ Course Communication:
   - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response.
 
 - For sensitive questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors and a few lead TAs.
-- For course accomodations/DSP: student accommodation requests will be handled via the Additional Accommodations Form (link TBD). Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](<(mailto:{{page.course.comms_email}})>).
+- For course accomodations/DSP: student accommodation requests will be handled via the Additional Accommodations Form (**LINK TBD**). Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](<(mailto:{{page.course.comms_email}})>).
   - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
@@ -167,7 +169,7 @@ Course Communication:
 
 **To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterm and final exams.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
 
-While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an Additional Accommodations Form (link TBD). See the next sections for more details.
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an Additional Accommodations Form (**LINK TBD**). See the next sections for more details.
 
 ### On-Time Submission
 
@@ -175,15 +177,17 @@ All assignments are due at **_11:59 PM Pacific Time_** on the due date specified
 
 ### Slip Days
 
-Each student gets an extension budget of **12 (TBA)** total slip days for homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
+Each student gets an extension budget of 12 total slip days for homeworks and projects (so use them wisely). You can apply these slip days to homework and projects only (not labs) during the semester.
 
-Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use the submission time as displayed on Gradescope.
+Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, we will be not able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
+
 
 {: .note }
 
+Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use your recorded submission time.
+
 > If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used.
 
-Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, we will be not able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
 
 ### Additional Accommodations
 
@@ -193,7 +197,7 @@ The **Additional Accommodations Form (link TBD)** is for any circumstances that 
 
 We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The Additional Accommodations Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
-Note that you **cannot** use the Additional Accommodations Form if you encounter a logistical oversight, such as Datahub/Gradescope tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on Gradescope. It is the students’ responsibility to identify and resolve these issues well in advance of the on-time deadline.
+Note that you **cannot** use the Additional Accommodations Form if you encounter a logistical oversight, such as Datahub/autograder tests not passing, submitting only one portion of the homework, forgetting to save your notebook before exporting, submitting to the wrong assignment portal, or not properly tagging pages on the grading portal. It is the students’ responsibility to identify and resolve these issues well in advance of the on-time deadline.
 We will not grant accommodations for these cases; instead, please use slip days to cushion these submission errors.
 
 Finally, simply submitting a request does not guarantee you will receive an extension. You must submit your requests before running out of slip days. **Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.**
@@ -208,9 +212,9 @@ You are responsible for reasonable communication with course staff. If you make 
 
 ### Regrade Requests
 
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through Gradescope, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through the grading portal, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
 
-**Always check that the autograder executes correctly!** Gradescope will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
+**Always check that the autograder executes correctly!** The grading portal will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
 
 Regrade requests will **not** be considered in cases in which:
 
@@ -233,7 +237,7 @@ Working through challenging problems is a key step in learning. If you have an a
 
 {: .important }
 
-**Use of AI-assisted methods and large language models (LLMs), such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited.**
+**Use of AI-assisted methods and large language models (LLMs), such as ChatGPT, to generate written or code solutions to assignments is prohibited. Usage of past assignment solutions is also prohibited. LLMs are only permitted for productive uses, which we define below.**
 
 Copying or closely paraphrasing any text directly from a homework or lab problem into a large language model (LLM) is considered cheating in Data 100. Furthermore, engaging in this behavior is detrimental to your learning. You should break problems into steps and ask for help with each step in your own words. If you copy problems directly into ChatGPT, **you're not learning data science**. You're learning how to ask someone else to do sloppy and unreliable data science on your behalf.
 
