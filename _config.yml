@@ -90,7 +90,7 @@ course: DATA 100
 course_email: data100.instructors
 gradescope_course_id: 1056235
 bcourses_course_id: 1545289
-ed_course_id: 
+ed_course_id: 80038
 sememster: su25
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.

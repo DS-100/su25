@@ -141,7 +141,7 @@ We want to enable everyone to succeed in this course. We encourage you to discus
 
 Course Communication:
 
-- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out Ed (link TBD) and the [FAQ](https://ds100.org/faqs/su25/){:target="\_blank"} page first before emailing course staff directly.
+- **EdStem**, or **Ed** for short, is our course forum this semester. **_All course announcements will be through Ed._** We are not using bCourses this semester. Please check out [Ed](https://edstem.org/us/courses/80038){:target="\_blank"} and the [FAQ](https://ds100.org/faqs/su25/){:target="\_blank"} page first before emailing course staff directly.
 
   - Ed is a formal, academic space. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. For further reading, please reference [Berkeley’s Principles of Community](https://diversity.berkeley.edu/principles-community){:target="\_blank"} and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/){:target="\_blank"}.
 
