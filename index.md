@@ -18,7 +18,7 @@ currWeekNumber: 0
 
 [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}){:target="_blank" .btn .btn-ed .mr-1 }
 [Datahub](http://data100.datahub.berkeley.edu/){:target="\_blank" .btn .btn-datahub .mr-1 }
-[Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}){:target="\_blank" .btn .btn-gradescope .mr-1 }
+<!-- [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}){:target="\_blank" .btn .btn-gradescope .mr-1 } -->
 <!-- [Lectures Playlist](){:target="\_blank" .btn .btn-youtube .mr-1}
 [Additional Accommodations](){:target="\_blank" .btn .btn-blue .mr-1 } -->
 [Office Hours Queue](https://oh.ds100.org/){:target="\_blank" .btn .btn-oh .mr-1}

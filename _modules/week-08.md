@@ -3,10 +3,10 @@ title: Week 8
 ---
 
 Mon Aug 11
-: **Lecture 28**{: .label .label-lecture } [Review](lecture/lec28)
+: **Lecture 28**{: .label .label-lecture } Review
 
 Tue Aug 12
-: **Lecture 29**{: .label .label-lecture } [Review](lecture/lec29)
+: **Lecture 29**{: .label .label-lecture } Review
 
 Wed Aug 13
 : **Final**{: .label .label-exam}

@@ -3,23 +3,23 @@ title: Week 2
 ---
 
 Mon June 30
-: **Lecture 5**{: .label .label-lecture } [Data Cleaning & EDA](lecture/lec05)
+: **Lecture 5**{: .label .label-lecture } Data Cleaning & EDA
 : **Lecture Participation 5**{: .label .label-survey } Slido
 : **Discussion 2**{: .label .label-disc } Pandas I
 : **Lab 2B**{: .label .label-lab } Data Cleaning & EDA (due Thu 7/3)
 
 Tue July 1
-: **Lecture 6**{: .label .label-lecture } [Regex](lecture/lec06)
+: **Lecture 6**{: .label .label-lecture } Regex
 : **Lecture Participation 6**{: .label .label-survey } Slido
 : **Homework 2B**{: .label .label-hw } Food Safety II (due Mon 7/7)
 
 Wed July 2
-: **Lecture 7**{: .label .label-lecture } [Visualization I](lecture/lec07)
+: **Lecture 7**{: .label .label-lecture } Visualization I
 : **Lecture Participation 7**{: .label .label-survey } Slido
 : **Discussion 3**{: .label .label-disc } Pandas II, EDA
 
 Thu July 3
-: **Lecture 8**{: .label .label-lecture } [Visualization II](lecture/lec08)
+: **Lecture 8**{: .label .label-lecture } Visualization II
 : **Lecture Participation 8**{: .label .label-survey } Slido
 : **Lab 3**{: .label .label-lab } Regex, EDA (due Mon 7/7)
 

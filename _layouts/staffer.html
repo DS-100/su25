@@ -46,7 +46,8 @@
 
     {%- if page.email -%}
       {%- if page.role == 'Instructor' -%}
-      <p><a href="mailto:data100.instructors@berkeley.edu">{{ page.email }}</a></p>
+      <p>{{ page.email }}</p>
+      <p><a href="mailto:data100.instructors@berkeley.edu"> data100.instructors@berkeley.edu </a></p>
       {%- else -%}
       <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
       {%- endif -%}
