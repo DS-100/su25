@@ -78,9 +78,9 @@ Live **discussion sections** are one hour long, and held twice a week on Mondays
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist TBA. Slides for the content review are linked TBA. We recommend watching the content review before your discussion section. Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
+Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist (link TBA). Slides for the content review are linked TBA. We recommend watching the content review before your discussion section. Discussion sections will not include any content review, they will solely be focused on problem-solving and Q&A.
 
-{: .important }
+<!-- {: .important }
 
 > This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. Discussion sections will commence in the second week of class, and students will need to choose between the two grading schemes, and these decisions will be final. Students who choose the Graded Discussion will be assigned a discussion attendance based on their availability.
 
@@ -95,7 +95,7 @@ Each week, we will provide a conceptual review covering the topics pertinent to 
 
 Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}).
 
-Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown.
+Please refer to [Grading Scheme](#grading-scheme) for a comprehensive grade breakdown. -->
 
 ### Homework and Projects
 
@@ -123,11 +123,12 @@ There will be two exams in this course:
 
 {: .important}
 
-> - **Midterm** on **Thursday July 17** from TBA
+> - **Midterm** on **Thursday July 17 AND Friday July 18**.
+> - **Final** on **Wednesday August 13 AND Thursday August 14**.
 
-- **Final** on **TBA** from TBA
+For the midterm exam, we plan to administer in one of the computer-based testing facilities on campus on the two days listed above. Enrolled students will be able to sign up for a two-hour time slot to take the midterm on of the two available days. More information will be provided once the semester begins, including instructions for students with DSP accommodations.
 
-**All exams must be taken in-person.** There will be no alternate exams offered.
+For the final exam, we plan to administer the final exam on the two days listed above. The final exam will be administered EITHER on-paper during regular lecture time (11:30am - 1pm) on BOTH days (i.e., a two-part exam), OR in one of the computer-based testing facilities (CBTF) on campus with the exam completed in ONE sitting on either 8/13 or 8/14. If the exam if administered in the CBTF, we may also offer exam slots on Friday August 15. You will not have a choice of exam modality (i.e., on-paper or computerized). The instructors will choose a single exam modality for the entire class. We will announce our decision shortly after the midterm.
 
 ## Office Hours and Communication
 
@@ -166,7 +167,7 @@ Course Communication:
 
 **To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterm and final exams.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
 
-While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an Additional Accommodations Form (link TBD) {:target="\_blank"}. See the next sections for more details.
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an Additional Accommodations Form (link TBD). See the next sections for more details.
 
 ### On-Time Submission
 

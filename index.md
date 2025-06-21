@@ -16,7 +16,7 @@ currWeekNumber: 0
 
 
 
-[Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}){:target="_blank" .btn .btn-ed .mr-1 }
+<!-- [Ed](https://edstem.org/us/courses/{{ site.ed_course_id }}){:target="_blank" .btn .btn-ed .mr-1 } -->
 [Datahub](http://data100.datahub.berkeley.edu/){:target="\_blank" .btn .btn-datahub .mr-1 }
 [Gradescope](https://www.gradescope.com/courses/{{ site.gradescope_course_id }}){:target="\_blank" .btn .btn-gradescope .mr-1 }
 <!-- [Lectures Playlist](){:target="\_blank" .btn .btn-youtube .mr-1}
@@ -44,8 +44,6 @@ currWeekNumber: 0
 <a name="schedule"></a>
 
 ## Schedule
-
-If a link below redirects you to this same page, do not worry. We simply haven't added the link yet!
 
 {% for module in site.modules %}
 {{ module }}
