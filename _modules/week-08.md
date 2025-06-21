@@ -10,7 +10,7 @@ Tue Aug 12
 
 Wed Aug 13
 : **Final**{: .label .label-exam}
-See [syllabus](/su25/syllabus/) for final details.
+See [syllabus](/su25/syllabus/#exams) for final details.
 
 Thu Aug 14
 : **Final**{: .label .label-exam }

@@ -20,7 +20,7 @@ Wed July 16
 
 Thu July 17
 : **Midterm Exam**{: .label .label-exam }
-See [syllabus](/su25/syllabus/) for midterm details.
+See [syllabus](/su25/syllabus/#exams) for midterm details.
 
 Fri July 18
 : **Midterm Exam**{: .label .label-exam }
