@@ -91,7 +91,7 @@ Each week, we will provide a conceptual review covering the topics pertinent to 
 
 {: .note }
 
-> You can switch from the graded discussion option to the non-graded discussion option after the Pre-Semester Survey (**LINK TBD**) is due (**DATE TBD**) and before **DATE TBD**, so you are able to attend one discussion to gauge your interest. If you want to change between graded or ungraded discussion, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after **DATE TBA**. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
+> You can switch from the graded discussion option to the non-graded discussion option after the Pre-Semester Survey (**LINK TBD**) is due (**DATE TBD**) and before **DATE TBD**, so you are able to attend two discussion sections to gauge your interest. If you want to change between graded or ungraded discussion, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after **DATE TBA**. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
 
 Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}), and we may be able to accommodate you.
 
