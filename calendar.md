@@ -21,7 +21,7 @@ description: Calendars with times for all course events.
 This calendar contains times for
 
 - Lectures (in <span style="color:brown">**brown**</span>)
-- In-person discussion sections (in <span style="color:#E1C16E">**yellow**</span>)
+- In-person discussion sections (in **yellow**)
 - Remote discussion sections (in <span style="color:blue">**blue**</span>)
 <!-- - Exam prep sections and other reviews (in <span style="color:SeaGreen">**green**</span>) -->
 
