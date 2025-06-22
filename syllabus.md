@@ -120,7 +120,7 @@ There are two exams in this course:
 {: .important}
 
 > - **Computer-based midterm** on **Thursday July 17 OR Friday July 18**.<br/><br/>
-One of the following will be announced shortly after the midterm:
+>   One of the following will be announced shortly after the midterm:
 > - **Computer-based final** on **Wednesday August 13 OR Thursday August 14 OR Friday August 15**.
 > - **Written two-part final** on **Wednesday August 13 AND Thursday August 14** during lecture time
 
@@ -181,7 +181,7 @@ Each project or homework can have a maximum of **4** slip days applied. After 4 
 
 {: .note }
 
-Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. We will use your recorded submission time. For example, if all 12 slip days are used for the first three homework assignments, you are out of slip days and cannot ask us to not consider one of the slip days previously used. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. 
+Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. We will use your recorded submission time. For example, if all 12 slip days are used for the first three homework assignments, you are out of slip days and cannot ask us to not consider one of the slip days previously used. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late.
 
 ### Additional Accommodations
 
@@ -206,7 +206,7 @@ You are responsible for reasonable communication with course staff. If you make 
 
 ### Regrade Requests
 
-Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through the grading portal, and autograder regrades via a Google Form. The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
+Students will be allowed to submit regrade requests for the autograded and written portions of assignments in cases in which the rubric was incorrectly applied or the autograder scored their submission incorrectly. Regrades for the written portions of assignments will be handled through the grading portal, and autograder regrades via a [Google Form](https://forms.gle/LAK5rWCPdoWARujR8). The deadline for regrade requests (autograded and written) is one week after the grades are released for the corresponding assignment.
 
 **Always check that the autograder executes correctly!** The grading portal will show you the output of the public tests, and you should see the same results as you did on DataHub. If you see a discrepancy, ensure that you have exported the assignment correctly and, if there is still an issue, post on Ed _as soon as possible_.
 
