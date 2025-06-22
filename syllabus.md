@@ -82,16 +82,12 @@ Each week, we will provide a conceptual review covering the topics pertinent to 
 
 {: .important }
 
-> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. After the first week of the course, students will need to choose between the two grading schemes. Students who choose the Graded Discussion are assigned to a discussion slot based on their availability. Discussion attendance will be recorded starting with the second week of class. 
+> This semester, we are offering two different grading schemes - graded versus ungraded discussion attendance. After the first week of the course, students will need to choose between the two grading schemes. Students who choose the Graded Discussion are assigned to a discussion slot based on their availability. Discussion attendance will be recorded starting with the second week of class.
 
 - **Graded Discussion:** Discussion attendance will be recorded each week and account for 5% of the overall grade. Each weekly discussion will be graded on a 0/1 basis. You will only get credit for attending the discussion section that you are signed up for.
   - Online sections, if offered, are reserved for students with specific needs (e.g., DSP, etc.); these can be requested through the Pre-Semester and Discussion Selection Form.
   - All students are automatically granted 3 discussion attendance drops to use for illness, personal emergencies, or for other accommodations. These drops are designed to account for unexpected events. In other words, you should not plan to use them.
 - **"No Discussion" Grading Scheme:** Instead, the 5% discussion weight will be redistributed to the assignments category of the grade. If you choose this option, you will not be assigned to a discussion section.
-
-{: .note }
-
-> You can switch from the graded discussion option to the non-graded discussion option after the Pre-Semester Survey (**LINK TBD**) is due (**DATE TBD**) and before **DATE TBD**, so you are able to attend two discussion sections to gauge your interest. If you want to change between graded or ungraded discussion, please make a private Ed post or email [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). You cannot switch from graded to non-graded after **DATE TBA**. If you are unable to submit the form on time, we will assume you have opted for the non-graded discussion option.
 
 Students are not permitted to switch between the two grading schemes once finalized. However, if you would like to attend discussion at a later point in the semester, please reach out to us privately via Ed or [data100.instructors@berkeley.edu](mailto:{{page.course.email}}), and we may be able to accommodate you.
 
@@ -128,7 +124,7 @@ There are two exams in this course:
 
 We plan to administer the midterm in one of the computer-based testing facilities on campus on 7/17 and 7/18. Enrolled students will be able to sign up for a two-hour time slot to take the midterm during one of the two available days. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
 
-The final exam will be administered EITHER on-paper during regular lecture time (11:30am - 1pm) on 8/13 AND 8/14 (i.e., a two-part exam), OR in one of the computer-based testing facilities (CBTF) on campus with the exam completed in ONE sitting on 8/13, 8/14, or 8/15. 
+The final exam will be administered EITHER on-paper during regular lecture time (11:30am - 1pm) on 8/13 AND 8/14 (i.e., a two-part exam), OR in one of the computer-based testing facilities (CBTF) on campus with the exam completed in ONE sitting on 8/13, 8/14, or 8/15.
 
 You will not have a choice of final exam modality (i.e., on-paper or computerized). The instructors will choose a single exam modality for the entire class. We will announce our decision shortly after the midterm.
 
@@ -137,7 +133,7 @@ You will not have a choice of final exam modality (i.e., on-paper or computerize
 We want to enable everyone to succeed in this course. We encourage you to discuss course content with your friends, classmates, and course staff throughout the semester, particularly during **office hours**.
 
 - All office hours will be updated on the Calendar.
-- In-person course staff office hours will be held in Warren Hall 101B. (**LINK TBA**)
+- In-person course staff office hours will be held in Warren Hall 101B.
 - In general, students can come to staff office hours for any questions on course assignments or material.
 - Instructor office hours are generally reserved for conceptual questions, course review, course logistics, research opportunities, and career planning.
 
@@ -181,13 +177,11 @@ Each student gets an extension budget of 12 total slip days for homeworks and pr
 
 Each project or homework can have a maximum of **4** slip days applied. After 4 days of the assignment due date, we will be not able to accept your submission unless you have additional accommodations. Slip days should be reserved for unforeseen circumstances. You should not plan to use your slip days regularly.
 
-
 {: .note }
 
 Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use your recorded submission time.
 
 > If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used.
-
 
 ### Additional Accommodations
 
