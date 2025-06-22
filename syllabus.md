@@ -67,8 +67,8 @@ Each week, there are 4 live **lectures** held Monday through Thursday, 11:00am-1
 **Lecture participation**: While synchronous lecture attendance (in-person or through Zoom) is not mandatory, we expect you to "participate" in lecture by answering lecture poll questions in one of two ways: (1) synchronously during the lecture as poll questions are launched; or (2) asynchronously using a link provided after lecture.
 
 - Lecture participation is graded using poll responses on a 0/1 basis.
-  - Synchronous Participation: complete at least one participation poll question during the live lecture timeslot (11:00am-12:30pm, Monday through Thursday). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
-  - Asynchronous Participation: complete all participation poll questions from the link provided on the course website within one week of the corresponding lecture.
+  - Synchronous Participation: complete **at least one** participation poll question during the live lecture timeslot (11:00am-12:30pm, Monday through Thursday). As long as you submit a response to at least one poll question in this timeframe, you will receive synchronous attendance credit.
+  - Asynchronous Participation: complete **all** participation poll questions from the link provided on the course website within one week of the corresponding lecture.
   - In both cases, participation is graded on completion, not correctness.
 - See the [Policies](#policies) section for lecture participation drops.
 
@@ -78,7 +78,7 @@ Live **discussion sections** are one hour long, and held twice a week on Mondays
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist (**LINK TBA**). Slides for the content review can be foud here (**LINK TBA**). We recommend watching the content review before your discussion section. Discussion sections will not include any content review; they will solely be focused on problem-solving and Q&A.
+Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist (**LINK TBA**). Slides for the content review can be found here (**LINK TBA**). We recommend watching the content review before your discussion section. Discussion sections will not include any content review; they will solely be focused on problem-solving and Q&A.
 
 {: .important }
 
@@ -119,8 +119,10 @@ There are two exams in this course:
 
 {: .important}
 
-> - **Midterm** on **Thursday July 17 OR Friday July 18**.
-> - **Final** on **Wednesday August 13 OR Thursday August 14 OR Friday August 15**.
+> - **Computer-based midterm** on **Thursday July 17 OR Friday July 18**.<br/><br/>
+One of the following will be announced shortly after the midterm:
+> - **Computer-based final** on **Wednesday August 13 OR Thursday August 14 OR Friday August 15**.
+> - **Written two-part final** on **Wednesday August 13 AND Thursday August 14** during lecture time
 
 We plan to administer the midterm in one of the computer-based testing facilities on campus on 7/17 and 7/18. Enrolled students will be able to sign up for a two-hour time slot to take the midterm during one of the two available days. More information will be provided shortly after the semester begins, including instructions for students with DSP accommodations.
 
@@ -179,9 +181,7 @@ Each project or homework can have a maximum of **4** slip days applied. After 4 
 
 {: .note }
 
-Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. We will use your recorded submission time.
-
-> If all 12 slip days are used for the first three homework assignments (for example), you are out of slip days and cannot ask us to not consider one of the slip days previously used.
+Slip days are automatically applied based on the additional hours you take to submit any assignment after its given deadline. We will use your recorded submission time. For example, if all 12 slip days are used for the first three homework assignments, you are out of slip days and cannot ask us to not consider one of the slip days previously used. Slip days are rounded up to the next day. For instance, 1 minute late counts as 1 day late. 
 
 ### Additional Accommodations
 
