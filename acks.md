@@ -3,16 +3,17 @@ layout: page
 title: Acknowledgments
 nav_order: 10
 description: >-
-    Principles and Techniques of Data Science
+  Principles and Techniques of Data Science
 markdown: kramdown
 ---
 
 # Course Acknowledgments
+
 {:.no_toc}
 
 The content and structure of Data 100 have been designed and developed over the years thanks to many dedicated faculty and instructors at UC Berkeley.
 
-The *Learning Data Science* textbook that this course follows is authored by Sam Lau, Joseph Gonzalez, and Deborah Nolan.
+The _Learning Data Science_ textbook that this course follows is authored by Sam Lau, Joseph Gonzalez, and Deborah Nolan.
 
 Valuable and essential instructional contributors (alphabetical order):
 Ani Adhikari,
@@ -27,5 +28,6 @@ Fernando Pérez,
 Suraj Rampure,
 Allen Shen,
 Alvin Wan,
+Lisa Yan,
 and
-Lisa Yan.
+Michael Xiao.
