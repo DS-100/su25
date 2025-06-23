@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Mon June 23
-: **Lecture 1**{: .label .label-lecture } Introduction
+: **Lecture 1**{: .label .label-lecture } [Introduction](lecture/lec01)
 : **Lecture Participation 1**{: .label .label-survey } Slido
 : **Lab 1**{: .label .label-lab } Prerequisite Coding (due Thu 6/26)
 : **Homework 1**{: .label .label-hw } Prerequisite Math (due Fri 6/27)

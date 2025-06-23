@@ -33,11 +33,11 @@ currWeekNumber: 0
   </div>
 </div>
 
-<!-- {: .highlight }
+{: .highlight }
 
 > Welcome to [Week {{page.currWeekNumber}}](#week-{{page.currWeekNumber}}) of Data 100!
 > 
-> Lectures will be webcast at: [https://berkeley.zoom.us/j/97347722542](https://berkeley.zoom.us/j/97347722542){:target="\_blank"}. -->
+> Lectures will be webcast at: [https://berkeley.zoom.us/j/91772046015](https://berkeley.zoom.us/j/91772046015){:target="\_blank"}.
 
 
 
