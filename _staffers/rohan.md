@@ -2,7 +2,7 @@
 name: Rohan Bijukumar
 role: Tutor
 email: rohanbijukumar@berkeley.edu
-photo: rohan.jpg
+photo: rohan.JPG
 pronouns: He/Him
 ---
 
