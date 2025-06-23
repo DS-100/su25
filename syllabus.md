@@ -148,7 +148,7 @@ Course Communication:
   - Ed is your primary platform for asking questions about the class. It is monitored daily by course staff, so questions posted to Ed will likely receive the fastest response.
 
 - For sensitive questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors and a few lead TAs.
-- For course accomodations/DSP: student accommodation requests will be handled via the Additional Accommodations Form (**LINK TBD**). Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](<(mailto:{{page.course.comms_email}})>).
+- For course accommodations/DSP: student accommodation requests will be handled via the [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeTMG5z-WeVyRH52sQzB0bVzUk2zCzkXAaq9xJNoYHRLUw56g/viewform). Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu](<(mailto:{{page.course.comms_email}})>).
   - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
@@ -167,7 +167,7 @@ Course Communication:
 
 **To pass this course, students must achieve a total weighted average percentage of at least 50% across the midterm and final exams.** This means that even if a student excels in other components of the course, a total weighted average below 50% on these exams will result in a failing grade for the course.
 
-While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an Additional Accommodations Form (**LINK TBD**). See the next sections for more details.
+While we do not have homework drops this semester, we will offer slip days for homeworks/projects, as well as an [Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeTMG5z-WeVyRH52sQzB0bVzUk2zCzkXAaq9xJNoYHRLUw56g/viewform). See the next sections for more details.
 
 ### On-Time Submission
 
@@ -187,7 +187,7 @@ Slip days are automatically applied based on the additional hours you take to su
 
 We recognize that our students come from varied backgrounds and have widely-varying experiences. If you require any additional accommodations any time in the semester, please do not hesitate to let us know. The sooner we are made aware, the more options we have available for us to help you.
 
-The **Additional Accommodations Form (link TBD)** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
+The **[Additional Accommodations Form](https://docs.google.com/forms/d/e/1FAIpQLSeTMG5z-WeVyRH52sQzB0bVzUk2zCzkXAaq9xJNoYHRLUw56g/viewform)** is for any circumstances that cannot be resolved via slip days and drops. Within two business days of filling out the form, a member of course staff will reach out to you and provide a space for conversation, as well as to arrange course/grading accommodations as necessary. For more information, please email [data100.support@berkeley.edu](mailto:data100.support@berkeley.edu).
 
 We recognize that at times, it can be difficult to manage your course performance - particularly at Berkeley’s high standards. Sometimes emergencies just come up (personal health emergency, family emergency, etc.). The Additional Accommodations Form is meant to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. So please do not hesitate to reach out.
 
