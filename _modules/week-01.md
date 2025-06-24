@@ -16,7 +16,7 @@ Wed June 25
 : **Lecture 3**{: .label .label-lecture } Pandas II
 : **Lecture Participation 3**{: .label .label-survey } Slido
 : **Discussion 1**{: .label .label-disc } Prerequisites
-: **Catch Up Session 1**{: .label .label-disc } [Notebook](resources/assets/catchup/catchup_1_su25.ipynb) (optional)
+: **Catch Up Session 1**{: .label .label-disc } [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fcatchup%2Fcatchup_1_su25.ipynb) (optional)
 
 Thu June 26
 : **Lecture 4**{: .label .label-lecture } Pandas III
