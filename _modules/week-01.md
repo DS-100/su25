@@ -16,6 +16,7 @@ Wed June 25
 : **Lecture 3**{: .label .label-lecture } Pandas II
 : **Lecture Participation 3**{: .label .label-survey } Slido
 : **Discussion 1**{: .label .label-disc } Prerequisites
+: **Catch Up Session 1**{: .label .label-disc } [Notebook](resources/assets/catchup/catchup_1_su25.ipynb) (optional)
 
 Thu June 26
 : **Lecture 4**{: .label .label-lecture } Pandas III
