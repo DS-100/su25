@@ -10,7 +10,7 @@ Mon June 23
 
 Tue June 24
 : **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
-: **Lecture Participation 2**{: .label .label-survey } Slido
+: **Lecture Participation 2**{: .label .label-survey } [Slido](https://app.sli.do/event/pQrtDpqd5NDakKZxzjPUvk)
 
 Wed June 25
 : **Lecture 3**{: .label .label-lecture } Pandas II
