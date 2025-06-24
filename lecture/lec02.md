@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 2 – Pandas, Part I
 
-Presented by Michael Xiao and Josh Grossman
+Presented by Josh Grossman
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
