@@ -9,7 +9,7 @@ Mon June 23
 : **Homework 1**{: .label .label-hw } Prerequisite Math (due Fri 6/27)
 
 Tue June 24
-: **Lecture 2**{: .label .label-lecture } Pandas I
+: **Lecture 2**{: .label .label-lecture } [Pandas I](lecture/lec02)
 : **Lecture Participation 2**{: .label .label-survey } Slido
 
 Wed June 25
