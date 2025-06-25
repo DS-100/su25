@@ -12,4 +12,4 @@ Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowle
 
 - [slides](https://docs.google.com/presentation/d/1Ku78FqR5jFrHAO5qsYxgurmHFHZvSPV0xGwEhIQlxkE/edit?usp=sharing){:target="_blank"}
 - No demo for today's lecture
-<!-- - [recording](https://youtu.be/-y9dkhWO4W4){:target="_blank"} -->
+- [recording](https://youtu.be/sEeTNFc7leo){:target="_blank"}
