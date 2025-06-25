@@ -13,7 +13,7 @@ Tue June 24
 : **Lecture Participation 2**{: .label .label-survey } [Slido](https://app.sli.do/event/pQrtDpqd5NDakKZxzjPUvk)
 
 Wed June 25
-: **Lecture 3**{: .label .label-lecture } Pandas II
+: **Lecture 3**{: .label .label-lecture } [Pandas II](lecture/lec03)
 : **Lecture Participation 3**{: .label .label-survey } Slido
 : **Discussion 1**{: .label .label-disc } [Prerequisites](https://drive.google.com/file/d/1ZSFEXHRCbOhsk2V6C97vrGD_Fp04rKBy/view?usp=sharing)
 : **Catch Up Session 1**{: .label .label-disc } [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fcatchup%2Fcatchup_1_su25.ipynb) (optional)
