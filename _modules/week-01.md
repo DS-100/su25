@@ -21,7 +21,7 @@ Wed June 25
 Thu June 26
 : **Lecture 4**{: .label .label-lecture } [Pandas III](lecture/lec04)
 : **Lecture Participation 4**{: .label .label-survey } Slido
-: **Lab 2A**{: .label .label-lab } Pandas (due Mon 6/30)
+: **Lab 2A**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab02A%2Flab02A.ipynb) (due Mon 6/30)
 
 Fri June 27
-: **Homework 2A**{: .label .label-hw } Food Safety (due Wed 7/2)
+: **Homework 2A**{: .label .label-hw } [Food Safety](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw02A%2Fhw02A.ipynb) (due Wed 7/2)
