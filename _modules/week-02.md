@@ -3,7 +3,7 @@ title: Week 2
 ---
 
 Mon June 30
-: **Lecture 5**{: .label .label-lecture } Data Cleaning & EDA
+: **Lecture 5**{: .label .label-lecture } [Data Cleaning & EDA](lecture/lec05)
 : **Lecture Participation 5**{: .label .label-survey } Slido
 : **Discussion 2**{: .label .label-disc } Pandas I
 : **Lab 2B**{: .label .label-lab } Data Cleaning & EDA (due Thu 7/3)
