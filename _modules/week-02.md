@@ -5,7 +5,8 @@ title: Week 2
 Mon June 30
 : **Lecture 5**{: .label .label-lecture } [Data Cleaning & EDA](lecture/lec05)
 : **Lecture Participation 5**{: .label .label-survey } Slido
-: **Discussion 2**{: .label .label-disc } Pandas I
+: **Discussion 2**{: .label .label-disc } [Pandas I](https://drive.google.com/file/d/1hMuTnQqSslw8m3sEk7BeAKjp1NAVpMDb/view?usp=sharing)
+: **Catch Up Session 2**{: .label .label-disc} [Notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fcatchup%2FCatchup2.ipynb) (optional)
 : **Lab 2B**{: .label .label-lab } [**Data Cleaning & EDA**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab02B%2Flab02B.ipynb) (due Thu 7/3)
 
 Tue July 1
