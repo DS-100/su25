@@ -17,7 +17,7 @@ Tue July 1
 : **Homework 2B**{: .label .label-hw } [**Food Safety II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw02B%2Fhw02B.ipynb) (due Mon 7/7)
 
 Wed July 2
-: **Lecture 7**{: .label .label-lecture } Visualization I
+: **Lecture 7**{: .label .label-lecture } [**Visualization I**](lecture/lec07)
 : **Lecture Participation 7**{: .label .label-survey } Slido
 : **Discussion 3**{: .label .label-disc } Pandas II, EDA
 
