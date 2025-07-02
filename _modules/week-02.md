@@ -19,7 +19,7 @@ Tue July 1
 Wed July 2
 : **Lecture 7**{: .label .label-lecture } [**Visualization I**](lecture/lec07)
 : **Lecture Participation 7**{: .label .label-survey } Slido
-: **Discussion 3**{: .label .label-disc } Pandas II, EDA
+: **Discussion 3**{: .label .label-disc } [**Pandas II, EDA**](https://drive.google.com/file/d/1Ue-hhAeuD8pDx3NVXO8riprCwMU6EM6K/view?usp=sharing)
 
 Thu July 3
 : **Lecture 8**{: .label .label-lecture } Visualization II
