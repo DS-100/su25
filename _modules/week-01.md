@@ -16,7 +16,7 @@ Wed June 25
 : **Lecture 3**{: .label .label-lecture } [**Pandas II**](lecture/lec03)
 : **Lecture Participation 3**{: .label .label-survey } [**Slido**](https://app.sli.do/event/tyV55aR4JPBW85NKtuPNfn)
 : **Discussion 1**{: .label .label-disc } [Prerequisites](https://drive.google.com/file/d/1ZSFEXHRCbOhsk2V6C97vrGD_Fp04rKBy/view?usp=sharing)
-	: [**Catch Up Session Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fcatchup%2Fcatchup_1_su25.ipynb){:target="_blank"}
+	: [**Solutions**](https://drive.google.com/file/d/1CtPPZ9-Y6hXWU6Hhq9PCwuNSlMwrUzo8/view?usp=sharing){:target="_blank"}, [**Catch Up Session Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fcatchup%2Fcatchup_1_su25.ipynb){:target="_blank"}
 
 Thu June 26
 : **Lecture 4**{: .label .label-lecture } [**Pandas III**](lecture/lec04)
