@@ -13,7 +13,7 @@ Mon June 30
 
 Tue July 1
 : **Lecture 6**{: .label .label-lecture } [**Regex**](lecture/lec06)
-: **Lecture Participation 6**{: .label .label-survey } Slido
+: **Lecture Participation 6**{: .label .label-survey } [**Slido**](https://app.sli.do/event/6rLoRRhBFfgFn6WZPrbw2c)
 : **Homework 2B**{: .label .label-hw } [**Food Safety II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw02B%2Fhw02B.ipynb) (due Mon 7/7)
 
 Wed July 2
