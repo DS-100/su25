@@ -24,8 +24,8 @@ Wed July 2
 Thu July 3
 : **Lecture 8**{: .label .label-lecture } Visualization II
 : **Lecture Participation 8**{: .label .label-survey } Slido
-: **Lab 3**{: .label .label-lab } Regex, EDA (due Mon 7/7)
+: **Lab 3**{: .label .label-lab } [**Regex, EDA**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab03%2Flab03.ipynb) (due Mon 7/7)
 
 Fri July 4
 : **Holiday**{: .label .label-exam}
-: **Homework 3**{: .label .label-hw } NYT Articles (due Wed 7/9)
+: **Homework 3**{: .label .label-hw } [**NYT Articles**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw03%2Fhw03.ipynb) (due Wed 7/9)
