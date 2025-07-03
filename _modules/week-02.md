@@ -23,7 +23,7 @@ Wed July 2
 	: [**Solutions**](https://drive.google.com/file/d/1HCAFJIFIDJVF4_pJBOgmXOaGp0iDjJWq/view?usp=sharing){:target="_blank"}
 
 Thu July 3
-: **Lecture 8**{: .label .label-lecture } Visualization II
+: **Lecture 8**{: .label .label-lecture } [**Visualization II**](lecture/lec08)
 : **Lecture Participation 8**{: .label .label-survey } Slido
 : **Lab 3**{: .label .label-lab } [**Regex, EDA**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab03%2Flab03.ipynb) (due Mon 7/7)
 
