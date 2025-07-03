@@ -5,7 +5,7 @@ title: Week 3
 Mon July 7
 : **Lecture 9**{: .label .label-lecture } Sampling
 : **Lecture Participation 9**{: .label .label-survey } Slido
-: **Discussion 4**{: .label .label-disc } Regex, Visualization, and Transformation
+: **Discussion 4**{: .label .label-disc } [**Regex, Visualization, and Transformation**](https://drive.google.com/file/d/1lxd9WeJ6hu7uTeSdkSagDp1TzAy9OX9H/view?usp=sharing)
 : **Lab 4**{: .label .label-lab } Transformations (due Thu 7/10)
 
 Tue July 8
