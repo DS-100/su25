@@ -78,7 +78,7 @@ Live **discussion sections** are one hour long, and held twice a week on Mondays
 
 The lectures, assignments, and exams of this course are structured with the **expectation that all students complete the tasks in the discussion worksheet, either by attending section or on their own time.** The content covered in these sections is designed to solidify understanding of key lecture concepts and prepare students for homework assignments. It is to your benefit to actively participate in all discussions.
 
-Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a YouTube playlist (**LINK TBA**). Slides for the content review can be found here (**LINK TBA**). We recommend watching the content review before your discussion section. Discussion sections will not include any content review; they will solely be focused on problem-solving and Q&A.
+Each week, we will provide a conceptual review covering the topics pertinent to the discussion worksheet on a [YouTube playlist](https://youtube.com/playlist?list=PLQCcNQgUcDfo2QhEtkfq8Ln9YCcx9yhRD&si=pXZWxr2ipzA-l5NU). Slides for the content review can be found [here](https://drive.google.com/drive/folders/1bBo1Pvc6WujwKP3bALp7vOO9PbcJ3yN6?usp=sharing). We recommend watching the content review before your discussion section. Discussion sections will not include any content review; they will solely be focused on problem-solving and Q&A.
 
 {: .important }
 
