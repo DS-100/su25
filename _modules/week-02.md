@@ -18,7 +18,7 @@ Tue July 1
 
 Wed July 2
 : **Lecture 7**{: .label .label-lecture } [**Visualization I**](lecture/lec07)
-: **Lecture Participation 7**{: .label .label-survey } Slido
+: **Lecture Participation 7**{: .label .label-survey } [**Slido**](https://app.sli.do/event/1Xn6BKrpqMaa9tN6vkC2i4)
 : **Discussion 3**{: .label .label-disc } [Pandas II, EDA](https://drive.google.com/file/d/1Ue-hhAeuD8pDx3NVXO8riprCwMU6EM6K/view?usp=sharing)
 	: [**Solutions**](https://drive.google.com/file/d/1HCAFJIFIDJVF4_pJBOgmXOaGp0iDjJWq/view?usp=sharing){:target="_blank"}
 
