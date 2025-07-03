@@ -24,7 +24,7 @@ Wed July 2
 
 Thu July 3
 : **Lecture 8**{: .label .label-lecture } [**Visualization II**](lecture/lec08)
-: **Lecture Participation 8**{: .label .label-survey } Slido
+: **Lecture Participation 8**{: .label .label-survey } [Slido](https://app.sli.do/event/ecNtknWHeVmayCngthJYWT)
 : **Lab 3**{: .label .label-lab } [**Regex, EDA**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab03%2Flab03.ipynb) (due Mon 7/7)
 
 Fri July 4
