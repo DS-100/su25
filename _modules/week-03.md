@@ -11,7 +11,7 @@ Mon July 7
 
 Tue July 8
 : **Lecture 10**{: .label .label-lecture } [**Modeling, SLR**](lecture/lec10)
-: **Lecture Participation 10**{: .label .label-survey } Slido
+: **Lecture Participation 10**{: .label .label-survey } [**Slido**](https://app.sli.do/event/nCmJjiP9813fPk3T6bFueA)
 : **Homework 4**{: .label .label-hw } [**Bike Sharing**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw04%2Fhw04.ipynb) (due Fri 7/11)
 
 Wed July 9
