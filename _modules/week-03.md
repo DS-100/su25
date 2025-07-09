@@ -17,7 +17,7 @@ Tue July 8
 Wed July 9
 : **Lecture 11**{: .label .label-lecture } [**Constant model, loss, and transformations**](lecture/lec11)
 : **Lecture Participation 11**{: .label .label-survey } Slido
-: **Discussion 5**{: .label .label-disc } Probability, Sampling, & Visualization
+: **Discussion 5**{: .label .label-disc } [**Probability, Sampling, & Visualization**](https://drive.google.com/file/d/1a5nMcbcg9_1C1_g6x2pGt9NUhwKrVsK5/view?usp=sharing)
 
 Thu July 10
 : **Lecture 12**{: .label .label-lecture } Ordinary Least Squares
