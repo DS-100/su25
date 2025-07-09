@@ -15,7 +15,7 @@ Tue July 8
 : **Homework 4**{: .label .label-hw } [**Bike Sharing**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw04%2Fhw04.ipynb) (due Fri 7/11)
 
 Wed July 9
-: **Lecture 11**{: .label .label-lecture } Constant model, loss, and transformations
+: **Lecture 11**{: .label .label-lecture } [**Constant model, loss, and transformations**](lecture/lec11)
 : **Lecture Participation 11**{: .label .label-survey } Slido
 : **Discussion 5**{: .label .label-disc } Probability, Sampling, & Visualization
 
