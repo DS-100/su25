@@ -22,7 +22,7 @@ Wed July 9
 
 Thu July 10
 : **Lecture 12**{: .label .label-lecture } [**Ordinary Least Squares**](lecture/lec12)
-: **Lecture Participation 12**{: .label .label-survey } Slido
+: **Lecture Participation 12**{: .label .label-survey } [**Slido**](https://app.sli.do/event/67aF6rkyRyGEdZuHiN9axD)
 : **Lab 5**{: .label .label-lab } [**Modeling, Summary Statistics, Loss Functions, OLS**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab05%2Flab05.ipynb) (due Mon 7/14)
 
 Fri July 11
