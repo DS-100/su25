@@ -26,4 +26,4 @@ Thu July 10
 : **Lab 5**{: .label .label-lab } [**Modeling, Summary Statistics, Loss Functions, OLS**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab05%2Flab05.ipynb) (due Mon 7/14)
 
 Fri July 11
-: **Homework 5**{: .label .label-hw } [**Modeling and OLS**](https://drive.google.com/file/d/15MKTYBo34w5QFaKePLItbIj-WNwNOJL3/view?usp=sharing) (due Mon 7/21)
+: **Homework 5**{: .label .label-hw } [**Modeling and OLS**](https://drive.google.com/file/d/1Ls2NapEd3rO26_2MqPiGjptCT4f4Uqp7/view?usp=sharing) (due Mon 7/21)
