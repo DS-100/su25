@@ -4,8 +4,9 @@ title: Week 4
 
 Mon July 14
 : **Lecture 13**{: .label .label-lecture } [**Gradient Descent, sklearn**](lecture/lec13)
-: **Lecture Participation 13**{: .label .label-survey } Slido
-: **Discussion 6**{: .label .label-disc } [**Modeling and OLS**](https://drive.google.com/file/d/19SqwN8MRCU65UtQ949GSY-riIDrcAbch/view?usp=sharing)
+: **Lecture Participation 13**{: .label .label-survey } [**Slido**](https://app.sli.do/event/igWEFALd4MKPvxZMUekiux)
+: **Discussion 6**{: .label .label-disc } [Modeling and OLS](https://drive.google.com/file/d/19SqwN8MRCU65UtQ949GSY-riIDrcAbch/view?usp=sharing)
+	: [**Solutions**](https://drive.google.com/file/d/1tzAQdTLo1QVS-RfZGdj4j48Sj-TNwIGA/view?usp=sharing){:target="_blank"}
 : **Lab 6**{: .label .label-lab } [**Gradient Descent, sklearn**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab06%2Flab06.ipynb) (due Mon 7/21)
 
 Tue July 15
