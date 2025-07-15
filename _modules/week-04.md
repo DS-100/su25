@@ -11,7 +11,7 @@ Mon July 14
 
 Tue July 15
 : **Lecture 14**{: .label .label-lecture } [**Feature Engineering**](lecture/lec14)
-: **Lecture Participation 14**{: .label .label-survey } Slido
+: **Lecture Participation 14**{: .label .label-survey } [**Slido**](https://app.sli.do/event/rChDFRcT4svH2mLVkETdJj)
 : **Project A1**{: .label .label-proj } [**Housing I**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojA1%2FprojA1.ipynb) (due Wed 7/23)
 
 Wed July 16
