@@ -10,7 +10,7 @@ Mon July 14
 : **Lab 6**{: .label .label-lab } [**Gradient Descent, sklearn**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab06%2Flab06.ipynb) (due Mon 7/21)
 
 Tue July 15
-: **Lecture 14**{: .label .label-lecture } Feature Engineering
+: **Lecture 14**{: .label .label-lecture } [**Feature Engineering**](lecture/lec14)
 : **Lecture Participation 14**{: .label .label-survey } Slido
 : **Project A1**{: .label .label-proj } [**Housing I**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojA1%2FprojA1.ipynb) (due Wed 7/23)
 
