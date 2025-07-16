@@ -15,7 +15,7 @@ Tue July 15
 : **Project A1**{: .label .label-proj } [**Housing I**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojA1%2FprojA1.ipynb) (due Wed 7/23)
 
 Wed July 16
-: **Lecture 15**{: .label .label-lecture } HCE Case Study: CCAO
+: **Lecture 15**{: .label .label-lecture } [**HCE Case Study: CCAO**](lecture/lec15)
 : **Lecture Participation 15**{: .label .label-survey } Slido
 : **Discussion 7**{: .label .label-disc } Gradient Descent
 
