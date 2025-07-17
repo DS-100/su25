@@ -16,7 +16,7 @@ Tue July 15
 
 Wed July 16
 : **Lecture 15**{: .label .label-lecture } [**HCE Case Study: CCAO**](lecture/lec15)
-: **Lecture Participation 15**{: .label .label-survey } Slido
+: **Lecture Participation 15**{: .label .label-survey } [**Slido**](https://app.sli.do/event/tt96biuvrkniUFCXbZYACm)
 : **Discussion 7**{: .label .label-disc } [**Gradient Descent**](https://drive.google.com/file/d/1TXbkKJrkhDM_eyRPV2FAy60dob1SXGV_/view?usp=sharing)
 
 Thu July 17
