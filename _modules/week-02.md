@@ -8,7 +8,9 @@ Mon June 30
 : **Discussion 2**{: .label .label-disc } [Pandas I](https://drive.google.com/file/d/1hMuTnQqSslw8m3sEk7BeAKjp1NAVpMDb/view?usp=sharing){:target="_blank"}
 	: [**Solutions**](https://drive.google.com/file/d/1HBs7Zbmag414epKPnyqp23Y-TRAnp_fE/view?usp=sharing){:target="_blank"}, [**Catch Up Session Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fcatchup%2FCatchup2.ipynb){:target="_blank"},
 	[**Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fdisc02%2Fdisc02-worksheet-blank.ipynb){:target="_blank"}, 
-    	[**Groupwork Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fdisc02%2Fdisc02_groupwork_blank.ipynb){:target="_blank"},
+    	[**Groupwork Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fdisc02%2Fdisc02_groupwork_blank.ipynb){:target="_blank"}
+: **Exam Prep 2**{: .label .label-examprep } [Pandas and EDA](https://drive.google.com/file/d/1t_8teZ-bHnpkqCW5vUQ96-vFDd1lEXro/view?usp=sharing)
+    : [**Solutions**](https://drive.google.com/file/d/1BJGyBMlkq4eOE-ATfGO8F06iCBQMLVrL/view?usp=sharing)
 : **Lab 2B**{: .label .label-lab } [**Data Cleaning & EDA**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab02B%2Flab02B.ipynb) (due Thu 7/3)
 
 Tue July 1
