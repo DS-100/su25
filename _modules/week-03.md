@@ -7,6 +7,8 @@ Mon July 7
 : **Lecture Participation 9**{: .label .label-survey } [**Slido**](https://app.sli.do/event/xtUwyjVM8Q4H1ARpM9WQ7d)
 : **Discussion 4**{: .label .label-disc } [Regex, Visualization, and Transformation](https://drive.google.com/file/d/1lxd9WeJ6hu7uTeSdkSagDp1TzAy9OX9H/view?usp=sharing)
 	: [**Solutions**](https://drive.google.com/file/d/1vYnjJEVN8wma_kPkOTKbMMREpstp2G0a/view?usp=sharing){:target="_blank"}, [**Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fdisc04%2Fdisc04_coding_exercises.ipynb){:target="_blank"} 
+: **Exam Prep 4**{: .label .label-examprep } [Data Visualization](https://drive.google.com/file/d/1pTKLp3lMxsJ1WieK0rSBwTmKCK0wDOXB/view?usp=sharing)
+    : [**Solutions**](https://drive.google.com/file/d/1ad06I03YWv_XqPZ97BYW69WTjzJwADDB/view?usp=sharing)
 : **Lab 4**{: .label .label-lab } [**Transformations**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab04%2Flab04.ipynb) (due Thu 7/10)
 
 Tue July 8
@@ -19,6 +21,8 @@ Wed July 9
 : **Lecture Participation 11**{: .label .label-survey } [**Slido**](https://app.sli.do/event/dERJGoqvznQBLA7oQVvwYc)
 : **Discussion 5**{: .label .label-disc } [Probability, Sampling, & Visualization](https://drive.google.com/file/d/1a5nMcbcg9_1C1_g6x2pGt9NUhwKrVsK5/view?usp=sharing)
 	: [**Solutions**](https://drive.google.com/file/d/1JqBVj6ycR0b50EmmAZR96Cc4UH3zNHF4/view?usp=sharing){:target="_blank"}
+: **Exam Prep 5**{: .label .label-examprep } [SLR](https://drive.google.com/file/d/18uJsoQlT6uVIsD3hdqpWLz11SlIuFeZy/view?usp=sharing)
+    : [**Solutions**](https://drive.google.com/file/d/190mSORJ8FF6dvePyo1-7iz13iFyZjYBX/view?usp=sharing)
 
 Thu July 10
 : **Lecture 12**{: .label .label-lecture } [**Ordinary Least Squares**](lecture/lec12)

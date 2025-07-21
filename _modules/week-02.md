@@ -23,6 +23,8 @@ Wed July 2
 : **Lecture Participation 7**{: .label .label-survey } [**Slido**](https://app.sli.do/event/1Xn6BKrpqMaa9tN6vkC2i4)
 : **Discussion 3**{: .label .label-disc } [Pandas II, EDA](https://drive.google.com/file/d/1Ue-hhAeuD8pDx3NVXO8riprCwMU6EM6K/view?usp=sharing)
 	: [**Solutions**](https://drive.google.com/file/d/1HCAFJIFIDJVF4_pJBOgmXOaGp0iDjJWq/view?usp=sharing){:target="_blank"}
+: **Exam Prep 3**{: .label .label-examprep } [RegEx](https://drive.google.com/file/d/1JA-IJHk9djFJg38k4ERzvHBFksyl9g6w/view?usp=sharing)
+    : [**Solutions**](https://drive.google.com/file/d/1jEh5dgEPihUyxlmDyQ_70BXh502p97pY/view?usp=sharing)
 
 Thu July 3
 : **Lecture 8**{: .label .label-lecture } [**Visualization II**](lecture/lec08)
