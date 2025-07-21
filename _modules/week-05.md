@@ -4,7 +4,7 @@ title: Week 5
 
 Mon July 21
 : **Lecture 16**{: .label .label-lecture } [**Cross-Validation & Regularization**](lecture/lec16)
-: **Lecture Participation 16**{: .label .label-survey } Slido
+: **Lecture Participation 16**{: .label .label-survey } [**Slido**](https://app.sli.do/event/nH1BiXcW8ceh4UV7s8dDrL)
 : **Discussion 8**{: .label .label-disc } [**Cross-Validation & Regularization**](https://drive.google.com/file/d/1SybMV0IoEJ0bTZmB5-ziyJwTOju79m8N/view?usp=sharing)
 : **Exam Prep 7**{: .label .label-examprep } [Cross Validation and Regularization](https://drive.google.com/file/d/178-StrrYH_toaAVBLCJ3BTmTlUrmAGpa/view?usp=sharing)
     : [**Solutions**](https://drive.google.com/file/d/1kHh_CRWg5x1e4hBpD8p_1VAgKikgw_BG/view?usp=sharing)
