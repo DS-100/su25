@@ -5,7 +5,7 @@ title: Week 7
 Mon Aug 4
 : **Lecture 24**{: .label .label-lecture } Principal Component Analysis I
 : **Lecture Participation 24**{: .label .label-survey } Slido
-: **Discussion 12**{: .label .label-disc } Logistic Regression
+: **Discussion 12**{: .label .label-disc } PCA
 : **Lab 11**{: .label .label-lab } PCA (due Thu 8/7)
 
 Tue Aug 5
@@ -16,7 +16,7 @@ Tue Aug 5
 Wed Aug 6
 : **Lecture 26**{: .label .label-lecture } Clustering
 : **Lecture Participation 26**{: .label .label-survey } Slido
-: **Discussion 13**{: .label .label-disc } PCA & Clustering
+: **Discussion 13**{: .label .label-disc } Clustering
 
 Thu Aug 7
 : **Lecture 27**{: .label .label-lecture } Closing

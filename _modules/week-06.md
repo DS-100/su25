@@ -5,7 +5,7 @@ title: Week 6
 Mon July 28
 : **Lecture 20**{: .label .label-lecture } SQL I
 : **Lecture Participation 20**{: .label .label-survey } Slido
-: **Discussion 10**{: .label .label-disc } Random Variables, Bias, Variance
+: **Discussion 10**{: .label .label-disc } SQL
 : **Lab 9**{: .label .label-lab } SQL (due Thu 7/31)
 
 Tue July 29
@@ -16,7 +16,7 @@ Tue July 29
 Wed July 30
 : **Lecture 22**{: .label .label-lecture } Logistic Regression I
 : **Lecture Participation 22**{: .label .label-survey } Slido
-: **Discussion 11**{: .label .label-disc } SQL
+: **Discussion 11**{: .label .label-disc } Logistic Regression
 
 Thu July 31
 : **Lecture 23**{: .label .label-lecture } Logistic Regression II

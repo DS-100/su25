@@ -5,7 +5,7 @@ title: Week 5
 Mon July 21
 : **Lecture 16**{: .label .label-lecture } Cross-Validation & Regularization
 : **Lecture Participation 16**{: .label .label-survey } Slido
-: **Discussion 8**{: .label .label-disc } [**Feature Engineering, Housing**](https://drive.google.com/file/d/1SybMV0IoEJ0bTZmB5-ziyJwTOju79m8N/view?usp=sharing)
+: **Discussion 8**{: .label .label-disc } [**Cross-Validation & Regularization**](https://drive.google.com/file/d/1SybMV0IoEJ0bTZmB5-ziyJwTOju79m8N/view?usp=sharing)
 : **Lab 7**{: .label .label-lab } [**Model Selection**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab07%2Flab07.ipynb) (due 7/24)
 
 Tue July 22
@@ -16,7 +16,7 @@ Tue July 22
 Wed July 23
 : **Lecture 18**{: .label .label-lecture } Estimators, Bias & Variance
 : **Lecture Participation 18**{: .label .label-survey } Slido
-: **Discussion 9**{: .label .label-disc } Cross-Validation & Regularization
+: **Discussion 9**{: .label .label-disc } Random Variables, Bias, Variance
 
 Thu July 24
 : **Lecture 19**{: .label .label-lecture } Parameter Inference & The Bootstrap
