@@ -11,7 +11,7 @@ Mon July 21
 : **Lab 7**{: .label .label-lab } [**Model Selection**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab07%2Flab07.ipynb) (due 7/24)
 
 Tue July 22
-: **Lecture 17**{: .label .label-lecture } Random Variables
+: **Lecture 17**{: .label .label-lecture } [**Random Variables**](lecture/lec17)
 : **Lecture Participation 17**{: .label .label-survey } Slido
 : **Project A2**{: .label .label-proj } [**Housing II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojA2%2FprojA2.ipynb) (due Fri 7/25)
 
