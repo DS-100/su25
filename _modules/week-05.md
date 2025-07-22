@@ -5,7 +5,8 @@ title: Week 5
 Mon July 21
 : **Lecture 16**{: .label .label-lecture } [**Cross-Validation & Regularization**](lecture/lec16)
 : **Lecture Participation 16**{: .label .label-survey } [**Slido**](https://app.sli.do/event/nH1BiXcW8ceh4UV7s8dDrL)
-: **Discussion 8**{: .label .label-disc } [**Cross-Validation & Regularization**](https://drive.google.com/file/d/1SybMV0IoEJ0bTZmB5-ziyJwTOju79m8N/view?usp=sharing)
+: **Discussion 8**{: .label .label-disc } [Cross-Validation & Regularization](https://drive.google.com/file/d/1SybMV0IoEJ0bTZmB5-ziyJwTOju79m8N/view?usp=sharing)
+	: [**Solutions**](https://drive.google.com/file/d/1nQXBegs_skgd9ZU54WcjSJEljw7bd4aP/view?usp=sharing)
 : **Exam Prep 7**{: .label .label-examprep } [Cross Validation and Regularization](https://drive.google.com/file/d/178-StrrYH_toaAVBLCJ3BTmTlUrmAGpa/view?usp=sharing)
     : [**Solutions**](https://drive.google.com/file/d/1kHh_CRWg5x1e4hBpD8p_1VAgKikgw_BG/view?usp=sharing)
 : **Lab 7**{: .label .label-lab } [**Model Selection**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab07%2Flab07.ipynb) (due 7/24)
