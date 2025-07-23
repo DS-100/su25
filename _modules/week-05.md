@@ -24,7 +24,7 @@ Wed July 23
 Thu July 24
 : **Lecture 19**{: .label .label-lecture } Parameter Inference & The Bootstrap
 : **Lecture Participation 19**{: .label .label-survey } Slido
-: **Lab 8**{: .label .label-lab } Probability (due Mon 7/28)
+: **Lab 8**{: .label .label-lab } [**Probability**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab08%2Flab08.ipynb) (due Mon 7/28)
 
 Fri July 25
-: **Homework 6**{: .label .label-hw } Probability (due Wed 7/30)
+: **Homework 6**{: .label .label-hw } [**Probability**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw06%2Fhw06.ipynb) **and** [**Written**](https://drive.google.com/file/d/1qsQlntKx3QE_31l-ulhTYAOI6lCIyBwg/view?usp=sharing) (due Wed 7/30)
