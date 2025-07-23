@@ -17,7 +17,7 @@ Tue July 22
 : **Project A2**{: .label .label-proj } [**Housing II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojA2%2FprojA2.ipynb) (due Fri 7/25)
 
 Wed July 23
-: **Lecture 18**{: .label .label-lecture } Estimators, Bias & Variance
+: **Lecture 18**{: .label .label-lecture } [**Estimators, Bias & Variance**](lecture/lec18)
 : **Lecture Participation 18**{: .label .label-survey } Slido
 : **Discussion 9**{: .label .label-disc } [**Random Variables, Bias, Variance**](https://drive.google.com/file/d/1P9JicndBzVxOEVI_ZQtnWSJwyBiATcN0/view?usp=sharing)
 : **Exam Prep 8**{: .label .label-examprep } [Probability and Bias-Variance](https://drive.google.com/file/d/1QBeWXmRf7CzQRfmIcXxGXwzfatEe4Mqr/view?usp=sharing)
