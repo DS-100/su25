@@ -24,7 +24,7 @@ Wed July 23
     : [**Solutions**](https://drive.google.com/file/d/1bvlbo8HtvOaU4Sdk6FmqlLNVbK92wCST/view?usp=sharing)
 
 Thu July 24
-: **Lecture 19**{: .label .label-lecture } Parameter Inference & The Bootstrap
+: **Lecture 19**{: .label .label-lecture } [**Parameter Inference & The Bootstrap**](lecture/lec19)
 : **Lecture Participation 19**{: .label .label-survey } Slido
 : **Lab 8**{: .label .label-lab } [**Probability**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab08%2Flab08.ipynb) (due Mon 7/28)
 
