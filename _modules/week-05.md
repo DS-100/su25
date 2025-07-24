@@ -19,7 +19,8 @@ Tue July 22
 Wed July 23
 : **Lecture 18**{: .label .label-lecture } [**Estimators, Bias & Variance**](lecture/lec18)
 : **Lecture Participation 18**{: .label .label-survey } [**Slido**](https://app.sli.do/event/8A7VbaJA8f2SSFHEmbQsm2)
-: **Discussion 9**{: .label .label-disc } [**Random Variables, Bias, Variance**](https://drive.google.com/file/d/1P9JicndBzVxOEVI_ZQtnWSJwyBiATcN0/view?usp=sharing)
+: **Discussion 9**{: .label .label-disc } [Random Variables, Bias, Variance](https://drive.google.com/file/d/1P9JicndBzVxOEVI_ZQtnWSJwyBiATcN0/view?usp=sharing)
+	: [**Solutions**](https://drive.google.com/file/d/12j6tVSu0W0i8I86pSpz17nuceblxucCj/view?usp=sharing)
 : **Exam Prep 8**{: .label .label-examprep } [Probability and Bias-Variance](https://drive.google.com/file/d/1QBeWXmRf7CzQRfmIcXxGXwzfatEe4Mqr/view?usp=sharing)
     : [**Solutions**](https://drive.google.com/file/d/1bvlbo8HtvOaU4Sdk6FmqlLNVbK92wCST/view?usp=sharing)
 
