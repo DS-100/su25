@@ -6,7 +6,7 @@ Mon July 28
 : **Lecture 20**{: .label .label-lecture } SQL I
 : **Lecture Participation 20**{: .label .label-survey } Slido
 : **Discussion 10**{: .label .label-disc } SQL
-: **Lab 9**{: .label .label-lab } SQL (due Thu 7/31)
+: **Lab 9**{: .label .label-lab } [**Random Variables and Inference & SQL**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab09%2Flab09.ipynb) (due Thu 7/31)
 
 Tue July 29
 : **Lecture 21**{: .label .label-lecture } SQL II

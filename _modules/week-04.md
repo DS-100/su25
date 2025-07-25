@@ -9,7 +9,7 @@ Mon July 14
 	: [**Solutions**](https://drive.google.com/file/d/1tzAQdTLo1QVS-RfZGdj4j48Sj-TNwIGA/view?usp=sharing){:target="_blank"}
 : **Exam Prep 6**{: .label .label-examprep } [OLS, Gradient Descent](https://drive.google.com/file/d/1t7fNtmmRgb1A4bPLXPUKXYSF4A0vZAFT/view?usp=sharing)
     : [**Solutions**](https://drive.google.com/file/d/1saTEpwtWUsygNEc7Po1yzHOaQmSPCr_E/view?usp=sharing)
-: **Lab 6**{: .label .label-lab } [**Gradient Descent, sklearn**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab06%2Flab06.ipynb) (due Mon 7/21)
+: **Lab 6**{: .label .label-lab } [**OLS**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab06%2Flab06.ipynb) (due Mon 7/21)
 
 Tue July 15
 : **Lecture 14**{: .label .label-lecture } [**Feature Engineering**](lecture/lec14)
