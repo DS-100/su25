@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Mon July 28
-: **Lecture 20**{: .label .label-lecture } SQL I
+: **Lecture 20**{: .label .label-lecture } [**SQL I**](lecture/lec20)
 : **Lecture Participation 20**{: .label .label-survey } Slido
 : **Discussion 10**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1ZE2ZYTdj-3y2YET_rB9mirHUsNQK5PJU/view?usp=sharing)
     : [**Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fdisc10%2Fdisc10_blank-Copy1.ipynb)
