@@ -5,7 +5,8 @@ title: Week 6
 Mon July 28
 : **Lecture 20**{: .label .label-lecture } SQL I
 : **Lecture Participation 20**{: .label .label-survey } Slido
-: **Discussion 10**{: .label .label-disc } [**SQL**](https://drive.google.com/file/d/1ZE2ZYTdj-3y2YET_rB9mirHUsNQK5PJU/view?usp=sharing)
+: **Discussion 10**{: .label .label-disc } [SQL](https://drive.google.com/file/d/1ZE2ZYTdj-3y2YET_rB9mirHUsNQK5PJU/view?usp=sharing)
+    : [**Notebook**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fdisc%2Fdisc10%2Fdisc10_blank-Copy1.ipynb)
 : **Exam Prep 9**{: .label .label-examprep } [SQL](https://drive.google.com/file/d/13V7I559sCqk94aQgzET7L7vXWWdvLjCz/view?usp=sharing)
     : [**Solutions**](https://drive.google.com/file/d/1ixjlNE9Ggwnkds-7r3xEQksWGuUBpdsd/view?usp=sharing)
 : **Lab 9**{: .label .label-lab } [**Random Variables and Inference & SQL**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab09%2Flab09.ipynb) (due Thu 7/31)
