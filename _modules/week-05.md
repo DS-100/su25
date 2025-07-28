@@ -14,7 +14,7 @@ Mon July 21
 Tue July 22
 : **Lecture 17**{: .label .label-lecture } [**Random Variables**](lecture/lec17)
 : **Lecture Participation 17**{: .label .label-survey } [**Slido**](https://app.sli.do/event/dCu8oYHcZvQUQiUfXaWQDG)
-: **Project A2**{: .label .label-proj } [**Housing II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojA2%2FprojA2.ipynb) (due Fri 7/25)
+: **Project A2**{: .label .label-proj } [**Housing II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojA2%2FprojA2.ipynb) (due Sun 7/27)
 
 Wed July 23
 : **Lecture 18**{: .label .label-lecture } [**Estimators, Bias & Variance**](lecture/lec18)
