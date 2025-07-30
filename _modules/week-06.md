@@ -19,7 +19,9 @@ Tue July 29
 Wed July 30
 : **Lecture 22**{: .label .label-lecture } Logistic Regression I
 : **Lecture Participation 22**{: .label .label-survey } Slido
-: **Discussion 11**{: .label .label-disc } Logistic Regression
+: **Discussion 11**{: .label .label-disc } [**Logistic Regression**](https://drive.google.com/file/d/1-DOS74UzcjwRlzx7BKXBc7EJLD1knbPy/view?usp=sharing)
+: **Exam Prep 10**{: .label .label-examprep } [Logistic Regression](https://drive.google.com/file/d/1Mn3Z4iIgeiI8BHmSuGIN3DF7EwY4akYE/view?usp=sharing)
+    : [**Solutions**](https://drive.google.com/file/d/1lKqqe4foc88b6XJiKiAKAr9ABrZEjcki/view?usp=sharing)
 
 Thu July 31
 : **Lecture 23**{: .label .label-lecture } Logistic Regression II
