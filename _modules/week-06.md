@@ -17,7 +17,7 @@ Tue July 29
 : **Homework 7**{: .label .label-proj } [**SQL**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw07%2Fhw07.ipynb) (due Fri 8/1)
 
 Wed July 30
-: **Lecture 22**{: .label .label-lecture } Logistic Regression I
+: **Lecture 22**{: .label .label-lecture } [**Logistic Regression I**](lecture/lec22)
 : **Lecture Participation 22**{: .label .label-survey } Slido
 : **Discussion 11**{: .label .label-disc } [**Logistic Regression**](https://drive.google.com/file/d/1-DOS74UzcjwRlzx7BKXBc7EJLD1knbPy/view?usp=sharing)
 : **Exam Prep 10**{: .label .label-examprep } [Logistic Regression](https://drive.google.com/file/d/1Mn3Z4iIgeiI8BHmSuGIN3DF7EwY4akYE/view?usp=sharing)
