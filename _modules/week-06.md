@@ -13,7 +13,6 @@ Mon July 28
 
 Tue July 29
 : **Lecture 21**{: .label .label-lecture } [**SQL II**](lecture/lec21)
-: **Lecture Participation 21**{: .label .label-survey } Slido
 : **Homework 7**{: .label .label-proj } [**SQL**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fhw%2Fhw07%2Fhw07.ipynb) (due Fri 8/1)
 
 Wed July 30
