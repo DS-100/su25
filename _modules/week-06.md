@@ -26,7 +26,7 @@ Wed July 30
 Thu July 31
 : **Lecture 23**{: .label .label-lecture } Logistic Regression II
 : **Lecture Participation 23**{: .label .label-survey } Slido
-: **Lab 10**{: .label .label-lab } Logistic Regression (due Mon 8/4)
+: **Lab 10**{: .label .label-lab } [**Logistic Regression**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab10%2Flab10.ipynb) (due Mon 8/4)
 
 Fri Aug 1
 : **Project B1**{: .label .label-proj } Spam & Ham I (due Wed 8/6)
