@@ -5,7 +5,9 @@ title: Week 7
 Mon Aug 4
 : **Lecture 24**{: .label .label-lecture } Principal Component Analysis I
 : **Lecture Participation 24**{: .label .label-survey } Slido
-: **Discussion 12**{: .label .label-disc } PCA
+: **Discussion 12**{: .label .label-disc } [**PCA**](https://drive.google.com/file/d/1UNDLpMehrSOigd8jsAp4LrF9A6o-JYbv/view?usp=sharing)
+: **Exam Prep 2**{: .label .label-examprep } [PCA and Clustering](https://drive.google.com/file/d/18agphUbIjJhNtjQH0EHKvSTnsfXPhW_F/view?usp=sharing)
+    : [**Solutions**](https://drive.google.com/file/d/1pthW52stlvGqWIuqGlBUs_NQh49twF_1/view?usp=sharing)
 : **Lab 11**{: .label .label-lab } [**PCA**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab11%2Flab11.ipynb) (due Thu 8/7)
 
 Tue Aug 5
