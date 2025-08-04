@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Mon Aug 4
-: **Lecture 24**{: .label .label-lecture } Principal Component Analysis I
+: **Lecture 24**{: .label .label-lecture } [**Principal Component Analysis I**](lecture/lec24)
 : **Lecture Participation 24**{: .label .label-survey } Slido
 : **Discussion 12**{: .label .label-disc } [**ROC Curves and Performance Metrics**](https://drive.google.com/file/d/1UNDLpMehrSOigd8jsAp4LrF9A6o-JYbv/view?usp=sharing)
 : **Exam Prep 11**{: .label .label-examprep } [PCA and Clustering](https://drive.google.com/file/d/18agphUbIjJhNtjQH0EHKvSTnsfXPhW_F/view?usp=sharing)
