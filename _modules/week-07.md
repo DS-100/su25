@@ -13,7 +13,7 @@ Mon Aug 4
 
 Tue Aug 5
 : **Lecture 25**{: .label .label-lecture } [**Principal Component Analysis II**](lecture/lec25)
-: **Lecture Participation 25**{: .label .label-survey } Slido
+: **Lecture Participation 25**{: .label .label-survey } [**Slido**](https://app.sli.do/event/7Sxa4osW7fQuYMU862eC4R)
 : **Project B2**{: .label .label-proj } [**Spam & Ham II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojB2%2FprojB2.ipynb) (due Mon 8/11)
 
 Wed Aug 6
