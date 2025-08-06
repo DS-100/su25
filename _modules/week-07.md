@@ -17,7 +17,7 @@ Tue Aug 5
 : **Project B2**{: .label .label-proj } [**Spam & Ham II**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Fproj%2FprojB2%2FprojB2.ipynb) (due Mon 8/11)
 
 Wed Aug 6
-: **Lecture 26**{: .label .label-lecture } Clustering
+: **Lecture 26**{: .label .label-lecture } [**Clustering**](lecture/lec26)
 : **Lecture Participation 26**{: .label .label-survey } Slido
 : **Discussion 13**{: .label .label-disc } [**Clustering**](https://drive.google.com/file/d/1JpFArjucB0N1Kwj8YTGKi3-GS_mxugKf/view?usp=sharing)
 
