@@ -23,6 +23,6 @@ Wed Aug 6
     : [**Solutions**](https://drive.google.com/file/d/1Xe5GnqaoNBVhO52CymyBp6LPNCC7QrGf/view?usp=sharing)
 
 Thu Aug 7
-: **Lecture 27**{: .label .label-lecture } Closing
+: **Lecture 27**{: .label .label-lecture } [**Closing**](lecture/lec27)
 : **Lecture Participation 27**{: .label .label-survey } Slido
 : **Lab 12**{: .label .label-lab } [**PCA & Clustering**](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu25-student&branch=main&urlpath=lab%2Ftree%2Fsu25-student%2Flab%2Flab12%2Flab12.ipynb) (due Mon 8/11)

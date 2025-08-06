@@ -6,3 +6,4 @@ nav_exclude: true
 
 # Lecture 27 – Closing
 
+Presented by Ben Packer
