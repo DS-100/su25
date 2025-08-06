@@ -20,6 +20,7 @@ Wed Aug 6
 : **Lecture 26**{: .label .label-lecture } [**Clustering**](lecture/lec26)
 : **Lecture Participation 26**{: .label .label-survey } [**Slido**](https://app.sli.do/event/vpc89eNTwPQkipYTVxcXAh)
 : **Discussion 13**{: .label .label-disc } [**Clustering**](https://drive.google.com/file/d/1JpFArjucB0N1Kwj8YTGKi3-GS_mxugKf/view?usp=sharing)
+    : [**Solutions**](https://drive.google.com/file/d/1Xe5GnqaoNBVhO52CymyBp6LPNCC7QrGf/view?usp=sharing)
 
 Thu Aug 7
 : **Lecture 27**{: .label .label-lecture } Closing
