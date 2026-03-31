@@ -4,6 +4,9 @@ title: Lecture 15 – HCE Case Study
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 15 – HCE Case Study: CCAO
 
 Presented by Ari Edmundson
